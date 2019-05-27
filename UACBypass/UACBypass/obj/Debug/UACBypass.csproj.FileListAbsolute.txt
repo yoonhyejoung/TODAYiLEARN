@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\bin\Debug\UACBypass.exe.config
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\bin\Debug\UACBypass.exe
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\bin\Debug\UACBypass.pdb
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\obj\Debug\UACBypass.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\obj\Debug\UACBypass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\obj\Debug\UACBypass.exe
+C:\Users\Administrator\Desktop\c#\UACBypass\UACBypass\obj\Debug\UACBypass.pdb
