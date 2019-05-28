@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\bin\Debug\UACBypass(2).exe.config
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\bin\Debug\UACBypass(2).exe
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\bin\Debug\UACBypass(2).pdb
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass(2).csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass_2_.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass(2).csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass(2).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass(2).exe
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass(2).pdb
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Administrator\Desktop\c#\UACBypass(2)\UACBypass(2)\obj\Debug\UACBypass(2).csproj.CopyComplete
